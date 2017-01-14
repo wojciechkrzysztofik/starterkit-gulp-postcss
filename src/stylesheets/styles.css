@@ -1,0 +1,9 @@
+:root {
+  --red: red;
+  --orange: orange;
+}
+
+body {
+  background: color(blue alpha(-90%));
+  color: var(--orange);
+}
