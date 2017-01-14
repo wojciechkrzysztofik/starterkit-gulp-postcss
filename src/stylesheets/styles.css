@@ -5,5 +5,5 @@
 
 body {
   background: color(blue alpha(-90%));
-  color: var(--orange);
+  color: var(--red);
 }

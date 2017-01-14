@@ -1,6 +1,12 @@
 ### StarterKit with Webpack & PostCSS
 ***
 
+#### description:
+PostCSS (with CSSNext)  
+JavaScript concating  
+WebServer with autoreload  
+Desktop notifications  
+
 #### How to start:
 npm install
 gulp watch
