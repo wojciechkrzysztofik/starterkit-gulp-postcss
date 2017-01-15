@@ -8,7 +8,7 @@
 -- Desktop notifications  
 
 #### How to start:
--- npm install
+-- npm install  
 -- gulp  
 
 ..and your local server will start :)
