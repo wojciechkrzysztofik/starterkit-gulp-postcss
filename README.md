@@ -1,17 +1,19 @@
-### StarterKit with Webpack & PostCSS
+### StarterKit with Gulp & PostCSS
 ***
 
 #### Description:
-PostCSS (with CSSNext)  
-JavaScript concating  
-WebServer with autoreload  
-Desktop notifications  
+-- PostCSS (with CSSNext)  
+-- JavaScript bundling  
+-- WebServer with Autoreload  
+-- Desktop notifications  
 
 #### How to start:
-npm install
-gulp watch
+-- npm install
+-- gulp  
+
+..and your local server will start :)
 
 ***
-##### Author
+#### Author
 Wojciech Krzysztofik
 wkrzysztofik@icloud.com
