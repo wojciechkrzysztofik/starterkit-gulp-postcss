@@ -22,6 +22,7 @@
     "gulp-util": "^3.0.8",
     "gulp-webserver": "^0.9.1",
     "postcss-cssnext": "^2.9.0",
+    "postcss-import": "^9.1.0",
     "postcss-short": "^3.0.3",
     "precss": "^1.4.0"
   }

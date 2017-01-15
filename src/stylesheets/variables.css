@@ -1,3 +1,8 @@
+/* cssnext notation */
 :root {
-  --orange: orange;
+  --white: #fff;
+  --black: #000;
 }
+
+/* ..or sass notation */
+$orange: #FF4500;

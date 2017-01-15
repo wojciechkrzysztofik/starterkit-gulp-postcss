@@ -1,7 +1,3 @@
-import Hello from 'hello'
+var foo = 'bar';
 
-let foo = 'bar'
-
-Hello()
-
-console.log(foo)
+console.log(foo);

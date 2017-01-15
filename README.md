@@ -1,7 +1,7 @@
 ### StarterKit with Webpack & PostCSS
 ***
 
-#### description:
+#### Description:
 PostCSS (with CSSNext)  
 JavaScript concating  
 WebServer with autoreload  

@@ -1,9 +1,12 @@
-:root {
-  --red: red;
-  --orange: orange;
-}
+@import 'variables.css';
 
 body {
-  background: color(blue alpha(-90%));
-  color: var(--red);
+  color: var(--black);
+  font-family: Helvetica, Arial;
+
+  .intro {
+    background: $orange;
+    color: color(black alpha(-30%));
+    padding: 10px;
+  }
 }
